@@ -9,6 +9,9 @@ I am Aditya Bansal
 - 👯 I’m looking to collaborate on python and java projects.<br>
 - 📫 I like to work on projects related to data analysis.<br>
 <br>
-![](https://komarev.com/ghpvc/?username=adibansal17&color=blue&style=flat) <hr>
+
+![](https://komarev.com/ghpvc/?username=adibansal17&color=blue&style=flat) 
+
+<hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adibansal17&layout=compact)
