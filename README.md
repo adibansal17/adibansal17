@@ -8,8 +8,8 @@ Lets Connect:  <br>
 <!--
 **adibansal17/adibansal17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
--🔭 I’m currently Computer Science Engineering Student.<br>
-- 🌱 I’m currently learning django framework<br>
+-🔭 I’m currently a Computer Science Engineering Student.<br>
+- 🌱 I’m currently learning django framework.<br>
 - 👯 I’m looking to collaborate on python and java projects.<br>
 - 📫 I like to work on projects related to data analysis.<br>
 <br>
