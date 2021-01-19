@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Aditya Bansal
-
+<hr>
 <!--
 **adibansal17/adibansal17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -9,4 +9,6 @@ I am Aditya Bansal
 - 👯 I’m looking to collaborate on python and java projects
 - 📫 I like to work on projects related to data analysis.
 
-![](https://komarev.com/ghpvc/?username=adibansal17&color=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=adibansal17&color=blue&style=flat) <hr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adibansal17&layout=compact)] #(https://github.com/adibansal17/github-readme-stats)
