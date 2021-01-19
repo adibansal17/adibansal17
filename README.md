@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Aditya Bansal
+I am Aditya Bansal. I am a Software Developer who also loves Data Analysis.
 
 Lets Connect:  <br>
 <a href="mailto:adityabansal1911@outlook.com"><img src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
@@ -18,6 +18,6 @@ Lets Connect:  <br>
 
 <hr>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adibansal17&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adibansal17&layout=compact) 
 
-<!-- ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adibansal17&show_icons=true)  -->
+![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adibansal17&show_icons=true)
