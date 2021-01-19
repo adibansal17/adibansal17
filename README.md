@@ -18,6 +18,6 @@ Lets Connect:  <br>
 
 <hr>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adibansal17&layout=compact) -->
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adibansal17&layout=compact) 
 
 <!-- ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adibansal17&show_icons=true)  -->
